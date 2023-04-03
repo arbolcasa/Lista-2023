@@ -1,0 +1,355 @@
+#EXTM3U
+#EXTINF: ,
+corrupt/empty
+#EXTINF:-1 group-title="ESPANA -  FUTBOL" tvg-id="MOLIGA" tvg-name="|ES| MOVISTAR LA LIGA FHD" ,|ES| MOVISTAR LA LIGA FHD
+http://dx.tvdev.club:8080/play/q78s29ZXu0HIvK5JgGNq6oA0mTTbmacUr1MgF1IZNMrXJj3kZIxL4qnJN_FbCQ4O
+#EXTINF:-1 group-title="ESPANA -  FUTBOL" tvg-id="MOLIGA" tvg-name="|ES| MOVISTAR LA LIGA" tvg-logo="http://protocol.solanaflix.com:8080/images/YlPvM2x9GemEKii9kNJvjzfQB5ueimHskgyZeSbB3nSFdoUzk9WkwDNNHfB_MnXGPebyauooZlJu6IsgxQ98QA.png" ,|ES| MOVISTAR LA LIGA
+http://dx.tvdev.club:8080/play/q78s29ZXu0HIvK5JgGNq6poJe0Mtes1JqZ8yq_-5lUNEq2HUuHf9KSqfMkHbcKMN
+#EXTINF:-1 group-title="ESPANA -  FUTBOL" tvg-id="MOVLIG1" tvg-name="|ES| MOVISTAR LA LIGA 1 FHD" tvg-logo="http://protocol.solanaflix.com:8080/images/8dbd78e23ee5795fa914ea4ad6c91324.png" ,|ES| MOVISTAR LA LIGA 1 FHD
+http://dx.tvdev.club:8080/play/q78s29ZXu0HIvK5JgGNq6poJe0Mtes1JqZ8yq_-5lUMZWNozbxlUGy0dSiMXlCTC
+#EXTINF:-1 group-title="ESPANA -  FUTBOL" tvg-id="LALIGA1" tvg-name="|ES| MOVISTAR LA LIGA 1" tvg-logo="http://protocol.solanaflix.com:8080/images/0ff7ae3ad722402663d8d6fb0252dd02.png" ,|ES| MOVISTAR LA LIGA 1
+http://dx.tvdev.club:8080/play/q78s29ZXu0HIvK5JgGNq6poJe0Mtes1JqZ8yq_-5lUPcpQWVrVEnt1BpMMVwIPUN
+#EXTINF:-1 group-title="ESPANA -  FUTBOL" tvg-id="MVLIGA2" tvg-name="|ES| MOVISTAR LA LIGA 2 FHD" tvg-logo="http://protocol.solanaflix.com:8080/images/c4fc97650b75e6ffb857ecc33b3e35ed.png" ,|ES| MOVISTAR LA LIGA 2 FHD
+http://dx.tvdev.club:8080/play/q78s29ZXu0HIvK5JgGNq6poJe0Mtes1JqZ8yq_-5lUOM96pZgRnI-4DmOjmGmD0o
+#EXTINF:-1 group-title="ESPANA -  FUTBOL" tvg-id="MVLIGA2" tvg-name="|ES| MOVISTAR LA LIGA 2" tvg-logo="http://protocol.solanaflix.com:8080/images/c4fc97650b75e6ffb857ecc33b3e35ed.png" ,|ES| MOVISTAR LA LIGA 2
+http://dx.tvdev.club:8080/play/q78s29ZXu0HIvK5JgGNq6poJe0Mtes1JqZ8yq_-5lUMz2_Ua8MinRpXIUGJ8_WOW
+#EXTINF:-1 group-title="ESPANA -  FUTBOL" tvg-id="MVLIGA3" tvg-name="|ES| MOVISTAR LA LIGA 3 FHD" tvg-logo="http://protocol.solanaflix.com:8080/images/cc90d4b099ab89bfe675e27bd1b13245.png" ,|ES| MOVISTAR LA LIGA 3 FHD
+http://dx.tvdev.club:8080/play/q78s29ZXu0HIvK5JgGNq6poJe0Mtes1JqZ8yq_-5lUPFa-Iapgo5gdW8Woa_csk1
+#EXTINF:-1 group-title="ESPANA -  FUTBOL" tvg-name="|ES| MOVISTAR LALIGA SMARTBANK FHD" ,|ES| MOVISTAR LALIGA SMARTBANK FHD
+http://dx.tvdev.club:8080/play/q78s29ZXu0HIvK5JgGNq6qDsVbwbvaRzZCU2RYPl5PixPJXxo6nCcaVhxXA-1Mnb
+#EXTINF:-1 group-title="ESPANA -  FUTBOL" tvg-name="|ES| MOVISTAR LALIGA SMARTBANK HD" ,|ES| MOVISTAR LALIGA SMARTBANK HD
+http://dx.tvdev.club:8080/play/q78s29ZXu0HIvK5JgGNq6qDsVbwbvaRzZCU2RYPl5PjIEz0q0nqwn4eiv81mSxlG
+#EXTINF:-1 group-title="ESPANA -  FUTBOL" tvg-id="LALTV" tvg-name="|ES| LALIGA TV BAR FHD" tvg-logo="http://protocol.solanaflix.com:8080/images/YlPvM2x9GemEKii9kNJvjzfQB5ueimHskgyZeSbB3nR_d1kpJPqZRIlbrE86UUg68iIPTQ3AfL1LYCurI-y3EQ.png" ,|ES| LALIGA TV BAR FHD
+http://dx.tvdev.club:8080/play/q78s29ZXu0HIvK5JgGNq6qDsVbwbvaRzZCU2RYPl5PiB2qjuqMjPD2QCWqJQnicT
+#EXTINF:-1 group-title="ESPANA -  FUTBOL" tvg-id="LALTV" tvg-name="|ES| LALIGA TV BAR" tvg-logo="http://protocol.solanaflix.com:8080/images/YlPvM2x9GemEKii9kNJvjzfQB5ueimHskgyZeSbB3nR_d1kpJPqZRIlbrE86UUg68iIPTQ3AfL1LYCurI-y3EQ.png" ,|ES| LALIGA TV BAR
+http://dx.tvdev.club:8080/play/q78s29ZXu0HIvK5JgGNq6qDsVbwbvaRzZCU2RYPl5Ph1Zk9FMrGig2ZGSxRa-jTc
+#EXTINF:-1 group-title="ESPANA -  FUTBOL" tvg-id="GOLTVLE" tvg-name="|ES| GOL TV FHD" tvg-logo="http://protocol.solanaflix.com:8080/images/865cc3da0b037e87c67e8d7c19ba2b1c.png" ,|ES| GOL TV FHD
+http://dx.tvdev.club:8080/play/q78s29ZXu0HIvK5JgGNq6lrA4LhkvDM4S4fvUojeg86PCylPKttT4q5QJTQPJkZJ
+#EXTINF:-1 group-title="ESPANA -  FUTBOL" tvg-id="GOLTVLE" tvg-name="|ES| GOL TV" tvg-logo="http://protocol.solanaflix.com:8080/images/865cc3da0b037e87c67e8d7c19ba2b1c.png" ,|ES| GOL TV
+http://dx.tvdev.club:8080/play/q78s29ZXu0HIvK5JgGNq6poJe0Mtes1JqZ8yq_-5lUPypoBzVUUUYufd8HN-F4n0
+#EXTINF:-1 group-title="ESPANA -  FUTBOL" tvg-name="|ES| M. DAZN LALIGA 1 FHD" ,|ES| M. DAZN LALIGA 1 FHD
+http://dx.tvdev.club:8080/play/q78s29ZXu0HIvK5JgGNq6qDsVbwbvaRzZCU2RYPl5PiH0Se4p65YB-QcCYvbw0qa
+#EXTINF:-1 group-title="ESPANA -  FUTBOL" tvg-name="|ES| M. DAZN LALIGA 1 HD" ,|ES| M. DAZN LALIGA 1 HD
+http://dx.tvdev.club:8080/play/q78s29ZXu0HIvK5JgGNq6qDsVbwbvaRzZCU2RYPl5PgcrtM72N6KlEe_aAuYQIHV
+#EXTINF:-1 group-title="ESPANA -  FUTBOL" tvg-name="|ES| M. Dazn LaLiga 1 HD (720P) OP1" ,|ES| M. Dazn LaLiga 1 HD (720P) OP1
+http://dx.tvdev.club:8080/play/q78s29ZXu0HIvK5JgGNq6qDsVbwbvaRzZCU2RYPl5Pgnr1rxiU3cOOOQdZpU4FOU
+#EXTINF:-1 group-title="ESPANA -  FUTBOL" tvg-name="|ES| M. Dazn LaLiga 1 SD" ,|ES| M. Dazn LaLiga 1 SD
+http://dx.tvdev.club:8080/play/q78s29ZXu0HIvK5JgGNq6qDsVbwbvaRzZCU2RYPl5PjZDkB56N5Nbo0PnrPJsqEa
+#EXTINF:-1 group-title="ESPANA -  FUTBOL" tvg-name="|ES| M. Dazn LaLiga 2 HD (1080P)" ,|ES| M. Dazn LaLiga 2 HD (1080P)
+http://dx.tvdev.club:8080/play/q78s29ZXu0HIvK5JgGNq6qDsVbwbvaRzZCU2RYPl5PjFOAt9H28vrg7TkWfSNF2G
+#EXTINF:-1 group-title="ESPANA -  FUTBOL" tvg-name="|ES| M. Dazn LaLiga 2 HD (720P)" ,|ES| M. Dazn LaLiga 2 HD (720P)
+http://dx.tvdev.club:8080/play/q78s29ZXu0HIvK5JgGNq6qDsVbwbvaRzZCU2RYPl5PgsSdebkaWE3Ce3J3MyKWDR
+#EXTINF:-1 group-title="ESPANA -  FUTBOL" tvg-id="LIGCAHD" tvg-name="|ES| MOVISTAR LIGA CAMPEONES FHD" tvg-logo="http://protocol.solanaflix.com:8080/images/YlPvM2x9GemEKii9kNJvjzfQB5ueimHskgyZeSbB3nQvnIRfTRGbKgkik5Zoi9Z6JphsRnETVoxLh0MwhY8lig.png" ,|ES| MOVISTAR LIGA CAMPEONES FHD
+http://dx.tvdev.club:8080/play/q78s29ZXu0HIvK5JgGNq6poJe0Mtes1JqZ8yq_-5lUMkHHasz1uhj3x_7W1vSpN_
+#EXTINF:-1 group-title="ESPANA -  FUTBOL" tvg-id="LIGCAHD" tvg-name="|ES| MOVISTAR LIGA CAMPEONES" tvg-logo="http://protocol.solanaflix.com:8080/images/YlPvM2x9GemEKii9kNJvjzfQB5ueimHskgyZeSbB3nQvnIRfTRGbKgkik5Zoi9Z6JphsRnETVoxLh0MwhY8lig.png" ,|ES| MOVISTAR LIGA CAMPEONES
+http://dx.tvdev.club:8080/play/q78s29ZXu0HIvK5JgGNq6poJe0Mtes1JqZ8yq_-5lUMKsPbeWlhcG2bCOlYNxRcE
+#EXTINF:-1 group-title="ESPANA -  FUTBOL" tvg-id="MVLGCM1" tvg-name="|ES| MOVISTAR LIGA CAMPEONES 1 FHD" tvg-logo="http://protocol.solanaflix.com:8080/images/YlPvM2x9GemEKii9kNJvjzfQB5ueimHskgyZeSbB3nRACV-R0QaFek9mjJEuatba7yB910EKbPQx9z8kayL01g.png" ,|ES| MOVISTAR LIGA CAMPEONES 1 FHD
+http://dx.tvdev.club:8080/play/q78s29ZXu0HIvK5JgGNq6poJe0Mtes1JqZ8yq_-5lUNFPSJsy3F2-ekU7JNzp52V
+#EXTINF:-1 group-title="ESPANA -  FUTBOL" tvg-id="MVLGCM1" tvg-name="|ES| MOVISTAR LIGA CAMPEONES 1" ,|ES| MOVISTAR LIGA CAMPEONES 1
+http://dx.tvdev.club:8080/play/q78s29ZXu0HIvK5JgGNq6poJe0Mtes1JqZ8yq_-5lUN-sORtzL4mw4hjNGf1hj40
+#EXTINF:-1 group-title="ESPANA -  FUTBOL" tvg-id="MVLGCM2" tvg-name="|ES| MOVISTAR LIGA CAMPEONES 2 FHD" ,|ES| MOVISTAR LIGA CAMPEONES 2 FHD
+http://dx.tvdev.club:8080/play/q78s29ZXu0HIvK5JgGNq6poJe0Mtes1JqZ8yq_-5lUM69eJ3ZROYcStfwRpueUTJ
+#EXTINF:-1 group-title="ESPANA -  FUTBOL" tvg-id="MVLGCM2" tvg-name="|ES| MOVISTAR LIGA CAMPEONES 2" tvg-logo="http://protocol.solanaflix.com:8080/images/3ff280a0f15ba449af3519baa7b57564.png" ,|ES| MOVISTAR LIGA CAMPEONES 2
+http://dx.tvdev.club:8080/play/q78s29ZXu0HIvK5JgGNq6pBjypevg63TrcacnKsENX7MajrQL2TKlhnyZbKzyOGv
+#EXTINF:-1 group-title="ESPANA -  FUTBOL" tvg-id="MVLGCM3" tvg-name="|ES| MOVISTAR LIGA CAMPEONES 3" ,|ES| MOVISTAR LIGA CAMPEONES 3
+http://dx.tvdev.club:8080/play/q78s29ZXu0HIvK5JgGNq6poJe0Mtes1JqZ8yq_-5lUMpiz_b6Ub8nInNdF6Fcqlu
+#EXTINF:-1 group-title="ESPANA -  FUTBOL" tvg-id="LALIGA3" tvg-name="|ES| MOVISTAR LA LIGA 3" tvg-logo="http://protocol.solanaflix.com:8080/images/d64660706f02f2352453a0f41987c21e.png" ,|ES| MOVISTAR LA LIGA 3
+http://dx.tvdev.club:8080/play/q78s29ZXu0HIvK5JgGNq6poJe0Mtes1JqZ8yq_-5lUPci2PQMwmD92NqpPC4Ex0f
+#EXTINF:-1 group-title="ESPANA -  FUTBOL" tvg-id="BARCATV" tvg-name="|ES| BARCA TV FHD" tvg-logo="http://protocol.solanaflix.com:8080/images/6020c4a2f7ffd1e8ab1f45216070dcee.png" ,|ES| BARCA TV FHD
+http://dx.tvdev.club:8080/play/q78s29ZXu0HIvK5JgGNq6lrA4LhkvDM4S4fvUojeg86FvaoitzdKSfM2Mtn3E_ui
+#EXTINF:-1 group-title="ESPANA - DEPORTES" tvg-id="MFOR1HD" tvg-name="|ES| MOVISTAR F1 FHD" tvg-logo="http://protocol.solanaflix.com:8080/images/581fb6c82289bbb18ce4500a7454cbaa.png" ,|ES| MOVISTAR F1 FHD
+http://dx.tvdev.club:8080/play/q78s29ZXu0HIvK5JgGNq6poJe0Mtes1JqZ8yq_-5lUPkrcvtabaXn1waiL8aUiRj
+#EXTINF:-1 group-title="ESPANA - DEPORTES" tvg-id="MFOR1" tvg-name="|ES| MOVISTAR F1" ,|ES| MOVISTAR F1
+http://dx.tvdev.club:8080/play/q78s29ZXu0HIvK5JgGNq6poJe0Mtes1JqZ8yq_-5lUNH5DInKi304Ot83woy62Cp
+#EXTINF:-1 group-title="ESPANA - FORMULA 1" tvg-id="MFOR1HD" tvg-name="|ES| DAZN F1 FHD" ,|ES| DAZN F1 FHD
+http://dx.tvdev.club:8080/play/q78s29ZXu0HIvK5JgGNq6mmVVvUKZYXZTS5y6_B8LgcfIO981KhrLpEj2Jkntskg
+#EXTINF:-1 group-title="ESPANA - DEPORTES" tvg-id="MDEP1HD" tvg-name="|ES| MOVISTAR DEPORTE FHD" tvg-logo="http://protocol.solanaflix.com:8080/images/e3db432d2c1e957261e5d0222cb2f2b4.png" ,|ES| MOVISTAR DEPORTE FHD
+http://dx.tvdev.club:8080/play/q78s29ZXu0HIvK5JgGNq6poJe0Mtes1JqZ8yq_-5lUOGPcFanS2Q76EBcCB6-z1F
+#EXTINF:-1 group-title="ESPANA - DEPORTES" tvg-id="MOVDEPH" tvg-name="|ES| MOVISTAR DEPORTE" tvg-logo="http://protocol.solanaflix.com:8080/images/d6cce6e9adc52e23b63a3699731fb4ff.png" ,|ES| MOVISTAR DEPORTE
+http://dx.tvdev.club:8080/play/q78s29ZXu0HIvK5JgGNq6poJe0Mtes1JqZ8yq_-5lUNuEDmSWE0noL_9gsq0O8Tx
+#EXTINF:-1 group-title="ESPANA - DEPORTES" tvg-id="MOVDEPH" tvg-name="|ES| MOVISTAR DEPORTE 1 FHD" tvg-logo="http://protocol.solanaflix.com:8080/images/YlPvM2x9GemEKii9kNJvj1rGuS1uoj9o3GtZAVe7rBGF-2qqD40UGaf6ys1tPjw7eUBO626ouh3Y0KgIvK_Raw.png" ,|ES| MOVISTAR DEPORTE 1 FHD
+http://dx.tvdev.club:8080/play/q78s29ZXu0HIvK5JgGNq6poJe0Mtes1JqZ8yq_-5lUMUipuBoQXS3bvSU1TzwknA
+#EXTINF:-1 group-title="ESPANA - DEPORTES" tvg-id="MOVDEPH" tvg-name="|ES| MOVISTAR DEPORTE 1" ,|ES| MOVISTAR DEPORTE 1
+http://dx.tvdev.club:8080/play/q78s29ZXu0HIvK5JgGNq6poJe0Mtes1JqZ8yq_-5lUPesMiDU9frv1aFy_u-ervC
+#EXTINF:-1 group-title="ESPANA - DEPORTES" tvg-id="MOVDEPH" tvg-name="|ES| MOVISTAR DEPORTE 2" ,|ES| MOVISTAR DEPORTE 2
+http://dx.tvdev.club:8080/play/q78s29ZXu0HIvK5JgGNq6poJe0Mtes1JqZ8yq_-5lUMAY4RrlDl0IMX1r1Mok_MB
+#EXTINF:-1 group-title="ESPANA - DEPORTES" tvg-id="MOVDEPH" tvg-name="|ES| MOVISTAR DEPORTE 3" ,|ES| MOVISTAR DEPORTE 3
+http://dx.tvdev.club:8080/play/q78s29ZXu0HIvK5JgGNq6poJe0Mtes1JqZ8yq_-5lUOxCV4kn3WWAaVWCJJjNhUE
+#EXTINF:-1 group-title="ESPANA - DEPORTES" tvg-id="VAMOS" tvg-name="|ES| MOVISTAR VAMOS FHD" tvg-logo="http://protocol.solanaflix.com:8080/images/c56f7ced3ca9acb742698b73c40b0aed.png" ,|ES| MOVISTAR VAMOS FHD
+http://dx.tvdev.club:8080/play/q78s29ZXu0HIvK5JgGNq6poJe0Mtes1JqZ8yq_-5lUO5YH8MQbhHvNFMCWce3X4_
+#EXTINF:-1 group-title="ESPANA - DEPORTES" tvg-id="VAMOS" tvg-name="|ES| MOVISTAR VAMOS" tvg-logo="http://protocol.solanaflix.com:8080/images/c56f7ced3ca9acb742698b73c40b0aed.png" ,|ES| MOVISTAR VAMOS
+http://dx.tvdev.club:8080/play/q78s29ZXu0HIvK5JgGNq6poJe0Mtes1JqZ8yq_-5lUMtD1kzyUTQk3WlVkqaC54O
+#EXTINF:-1 group-title="ESPANA - DEPORTES" tvg-name="|ES| MULTIDEPORTE" ,|ES| MULTIDEPORTE
+http://dx.tvdev.club:8080/play/q78s29ZXu0HIvK5JgGNq6poJe0Mtes1JqZ8yq_-5lUNuJMCyW2EazDkAsPm9kFNs
+#EXTINF:-1 group-title="ESPANA - DEPORTES" tvg-id="EURSPHD" tvg-name="|ES| EUROSPORT 1 FHD" tvg-logo="http://protocol.solanaflix.com:8080/images/9022d29e833941a833cf52ad0b337346.png" ,|ES| EUROSPORT 1 FHD
+http://dx.tvdev.club:8080/play/q78s29ZXu0HIvK5JgGNq6poJe0Mtes1JqZ8yq_-5lUMh8CJD2iL2E5QRKEOWjjRb
+#EXTINF:-1 group-title="ESPANA - DEPORTES" tvg-id="EURSPHD" tvg-name="|ES| EUROSPORT 1" tvg-logo="http://protocol.solanaflix.com:8080/images/9022d29e833941a833cf52ad0b337346.png" ,|ES| EUROSPORT 1
+http://dx.tvdev.club:8080/play/q78s29ZXu0HIvK5JgGNq6poJe0Mtes1JqZ8yq_-5lUPkKEOBe1rIkESZ79klUuaZ
+#EXTINF:-1 group-title="ESPANA - DEPORTES" tvg-id="ES2ESP" tvg-name="|ES| EUROSPORT 2 FHD" tvg-logo="http://protocol.solanaflix.com:8080/images/YlPvM2x9GemEKii9kNJvjzfQB5ueimHskgyZeSbB3nRzDBhkt_Smf3HF9bsaPPYrNxlpdDIYbp8OnMw0yEND7A.png" ,|ES| EUROSPORT 2 FHD
+http://dx.tvdev.club:8080/play/q78s29ZXu0HIvK5JgGNq6qDsVbwbvaRzZCU2RYPl5PhzcdEzdSRb9xBUgHmKp-u6
+#EXTINF:-1 group-title="ESPANA - DEPORTES" tvg-id="EUROSPS" tvg-name="|ES| EUROSPORT 2" tvg-logo="http://protocol.solanaflix.com:8080/images/1ab6f436b2918cbcaff21cb57ffb8947.png" ,|ES| EUROSPORT 2
+http://dx.tvdev.club:8080/play/q78s29ZXu0HIvK5JgGNq6poJe0Mtes1JqZ8yq_-5lUMDiWoCCpBPFsA2pRc2bHLs
+#EXTINF:-1 group-title="ESPANA - DEPORTES" tvg-id="TELEDHD" tvg-name="|ES| TELEDEPORTE" tvg-logo="http://protocol.solanaflix.com:8080/images/f2441f5007f7434c4016d8c772892d5b.png" ,|ES| TELEDEPORTE
+http://dx.tvdev.club:8080/play/q78s29ZXu0HIvK5JgGNq6poJe0Mtes1JqZ8yq_-5lUN4b-U28hRN9hGiYB3S5Qhk
+#EXTINF:-1 group-title="ESPANA - DEPORTES" tvg-id="TELEDHD" tvg-name="|ES| TELEDEPORTE FHD" tvg-logo="http://protocol.solanaflix.com:8080/images/f2441f5007f7434c4016d8c772892d5b.png" ,|ES| TELEDEPORTE FHD
+http://dx.tvdev.club:8080/play/q78s29ZXu0HIvK5JgGNq6poJe0Mtes1JqZ8yq_-5lUODnz5Bm2w_ZawJUYzMR8hm
+#EXTINF:-1 group-title="ESPANA - DEPORTES" tvg-id="ESPOR3" tvg-name="|ES| ESPORT 3" tvg-logo="http://protocol.solanaflix.com:8080/images/97e7168864b8f624c099101b442a970c.png" ,|ES| ESPORT 3
+http://dx.tvdev.club:8080/play/q78s29ZXu0HIvK5JgGNq6poJe0Mtes1JqZ8yq_-5lUNDi4Id8_iCMy3jjQL83jMD
+#EXTINF:-1 group-title="ESPANA - DEPORTES" tvg-name="|ES| DAZN 1 FHD" tvg-logo="http://protocol.solanaflix.com:8080/images/dea32a3fc70cb6494714487d51bd6e93.png" ,|ES| DAZN 1 FHD
+http://dx.tvdev.club:8080/play/q78s29ZXu0HIvK5JgGNq6k2lxFf1oZykHIFdrBd2L4VcMVfZEQnVb3fdYsvsEtOD
+#EXTINF:-1 group-title="ESPANA - DEPORTES" tvg-name="|ES| DAZN 1" tvg-logo="http://protocol.solanaflix.com:8080/images/dea32a3fc70cb6494714487d51bd6e93.png" ,|ES| DAZN 1
+http://dx.tvdev.club:8080/play/q78s29ZXu0HIvK5JgGNq6k2lxFf1oZykHIFdrBd2L4WeM9jRuXqp10DTbhAkL1n9
+#EXTINF:-1 group-title="ESPANA - DEPORTES" tvg-name="|ES| DAZN 2 FHD" ,|ES| DAZN 2 FHD
+http://dx.tvdev.club:8080/play/q78s29ZXu0HIvK5JgGNq6jMzeib2k-7dSSmKbBk3KDUDya9bikCtiqm6pGAraHr2
+#EXTINF:-1 group-title="ESPANA - DEPORTES" tvg-name="|ES| DAZN 2" ,|ES| DAZN 2
+http://dx.tvdev.club:8080/play/q78s29ZXu0HIvK5JgGNq6jMzeib2k-7dSSmKbBk3KDUoNTqs8_nI_fdq-bjBJHlM
+#EXTINF:-1 group-title="ESPANA - DEPORTES" tvg-name="|ES| DAZN 3 FHD" ,|ES| DAZN 3 FHD
+http://dx.tvdev.club:8080/play/q78s29ZXu0HIvK5JgGNq6jMzeib2k-7dSSmKbBk3KDWIzJgxGNtEUEFaVhhaWcH1
+#EXTINF:-1 group-title="ESPANA - DEPORTES" tvg-name="|ES| DAZN 4 FHD" ,|ES| DAZN 4 FHD
+http://dx.tvdev.club:8080/play/q78s29ZXu0HIvK5JgGNq6jMzeib2k-7dSSmKbBk3KDUOODFdsTZdi05JfLjn-Nu4
+#EXTINF:-1 group-title="ESPANA -  NINOS" tvg-id="DSNPL" tvg-name="|ES| DreamWorks FHD" tvg-logo="http://protocol.solanaflix.com:8080/images/5ed7fed512a482bd3a8d048699453af7.png" ,|ES| DreamWorks FHD
+http://dx.tvdev.club:8080/play/q78s29ZXu0HIvK5JgGNq6sY0M8D___KA4bYwx789g6kfi_cbhg7eXlvZvrxybWJM
+#EXTINF:-1 group-title="ESPANA -  CINE" tvg-id="CEROHD" tvg-name="|ES| MOVISTAR 0# FHD" tvg-logo="http://protocol.solanaflix.com:8080/images/88bf12850d39831cdf64199d615ffe52.png" ,|ES| MOVISTAR 0# FHD
+http://dx.tvdev.club:8080/play/q78s29ZXu0HIvK5JgGNq6poJe0Mtes1JqZ8yq_-5lUPwhFrZGV0oEVKqCO-WkinA
+#EXTINF:-1 group-title="ESPANA -  CINE" tvg-id="CERO" tvg-name="|ES| MOVISTAR 0#" tvg-logo="http://protocol.solanaflix.com:8080/images/dce3b5866fc77e687af494fcebecef2a.png" ,|ES| MOVISTAR 0#
+http://dx.tvdev.club:8080/play/q78s29ZXu0HIvK5JgGNq6poJe0Mtes1JqZ8yq_-5lUPdcvjCdlE-P0b_n5WhrPrN
+#EXTINF:-1 group-title="ESPANA -  CINE" tvg-id="MESTHD" tvg-name="|ES| MOVISTAR ESTRENOS FHD" tvg-logo="http://protocol.solanaflix.com:8080/images/1455d278e2d60d507074e65cee44e58e.png" ,|ES| MOVISTAR ESTRENOS FHD
+http://dx.tvdev.club:8080/play/q78s29ZXu0HIvK5JgGNq6poJe0Mtes1JqZ8yq_-5lUMJt76C818z7qQ60CdSbUQR
+#EXTINF:-1 group-title="ESPANA -  CINE" tvg-id="MESTHD" tvg-name="|ES| MOVISTAR ESTRENOS" tvg-logo="http://protocol.solanaflix.com:8080/images/1455d278e2d60d507074e65cee44e58e.png" ,|ES| MOVISTAR ESTRENOS
+http://dx.tvdev.club:8080/play/q78s29ZXu0HIvK5JgGNq6poJe0Mtes1JqZ8yq_-5lUNvqpjxcFD1U29ahjXVBLEi
+#EXTINF:-1 group-title="ESPANA -  CINE" tvg-id="MACCIHD" tvg-name="|ES| MOVISTAR ACCION FHD" tvg-logo="http://protocol.solanaflix.com:8080/images/c4f6fdf24e4a5c55c4518342fa2d16f5.png" ,|ES| MOVISTAR ACCION FHD
+http://dx.tvdev.club:8080/play/q78s29ZXu0HIvK5JgGNq6poJe0Mtes1JqZ8yq_-5lUN36GyimnflLJhRzatf0kv2
+#EXTINF:-1 group-title="ESPANA -  CINE" tvg-id="MACCI" tvg-name="|ES| MOVISTAR ACCION" tvg-logo="http://protocol.solanaflix.com:8080/images/d97fb24e0deabe8b47e780745e3161d4.png" ,|ES| MOVISTAR ACCION
+http://dx.tvdev.club:8080/play/q78s29ZXu0HIvK5JgGNq6poJe0Mtes1JqZ8yq_-5lUMwbiDWfGlnQ-d-uK-cYsiY
+#EXTINF:-1 group-title="ESPANA -  CINE" tvg-id="MCOMHD" tvg-name="|ES| MOVISTAR COMEDIA FHD" tvg-logo="http://protocol.solanaflix.com:8080/images/ddfdb0ccac6bbc67650fafdbde3a360d.png" ,|ES| MOVISTAR COMEDIA FHD
+http://dx.tvdev.club:8080/play/q78s29ZXu0HIvK5JgGNq6poJe0Mtes1JqZ8yq_-5lUNVqUp4qTZGFmlyj_JZoch3
+#EXTINF:-1 group-title="ESPANA -  CINE" tvg-id="MCOM" tvg-name="|ES| MOVISTAR COMEDIA" tvg-logo="http://protocol.solanaflix.com:8080/images/a63b54980dfa8fbba4a7e596afb5e798.png" ,|ES| MOVISTAR COMEDIA
+http://dx.tvdev.club:8080/play/q78s29ZXu0HIvK5JgGNq6poJe0Mtes1JqZ8yq_-5lUMn6DHrXDJ340sYPkt50S8K
+#EXTINF:-1 group-title="ESPANA -  CINE" tvg-id="MSER" tvg-name="|ES| MOVISTAR SERIES FHD" tvg-logo="http://protocol.solanaflix.com:8080/images/8f56109b1e5ddcac71837c62f6e5515e.png" ,|ES| MOVISTAR SERIES FHD
+http://dx.tvdev.club:8080/play/q78s29ZXu0HIvK5JgGNq6poJe0Mtes1JqZ8yq_-5lUMvu91DvZw_RAO-U5Z3ytL0
+#EXTINF:-1 group-title="ESPANA -  CINE" tvg-id="MSER" tvg-name="|ES| MOVISTAR SERIES" tvg-logo="http://protocol.solanaflix.com:8080/images/LMhyz-ijm8U3THFnpGpw66JYQdyfI1inTwtSRXUWiBi2wv5Viw52b0x8Vgq8Ba3RVvjrmeESotWXAAyOY0yDbzs8JqpXcUthsEpzffvNG24.png" ,|ES| MOVISTAR SERIES
+http://dx.tvdev.club:8080/play/q78s29ZXu0HIvK5JgGNq6poJe0Mtes1JqZ8yq_-5lUOkBKCxJo5qPCsdUX2NaTrU
+#EXTINF:-1 group-title="ESPANA -  CINE" tvg-id="HOLWHD" tvg-name="|ES| HOLLYWOOD FHD" tvg-logo="http://protocol.solanaflix.com:8080/images/08f97a2cf9e4533df2046db62aa85fee.png" ,|ES| HOLLYWOOD FHD
+http://dx.tvdev.club:8080/play/q78s29ZXu0HIvK5JgGNq6poJe0Mtes1JqZ8yq_-5lUNbMP2-TUaY_aeyoW9Q6DDU
+#EXTINF:-1 group-title="ESPANA -  CINE" tvg-id="CANHOLL" tvg-name="|ES| HOLLYWOOD" tvg-logo="http://protocol.solanaflix.com:8080/images/09a27e8761f96269efec9453d18dc660.png" ,|ES| HOLLYWOOD
+http://dx.tvdev.club:8080/play/q78s29ZXu0HIvK5JgGNq6poJe0Mtes1JqZ8yq_-5lUPjSJdr9fc221Mgm_HDLeVG
+#EXTINF:-1 group-title="ESPANA -  CINE" tvg-id="TCMARHD" tvg-name="|ES| TCM" tvg-logo="http://protocol.solanaflix.com:8080/images/LMhyz-ijm8U3THFnpGpw66JYQdyfI1inTwtSRXUWiBiVhzRvMEb1u6LNyOW093I4fqqtX7s8FR4dcRcOOqcESw.png" ,|ES| TCM
+http://dx.tvdev.club:8080/play/q78s29ZXu0HIvK5JgGNq6poJe0Mtes1JqZ8yq_-5lUP56s-jpaT6VxGwqykEJU8y
+#EXTINF:-1 group-title="ESPANA -  CINE" tvg-id="TCMAAM" tvg-name="|ES| TCM FHD" tvg-logo="http://protocol.solanaflix.com:8080/images/94f68ad1468ebfc8d0effa90f6a4f4c0.png" ,|ES| TCM FHD
+http://dx.tvdev.club:8080/play/q78s29ZXu0HIvK5JgGNq6poJe0Mtes1JqZ8yq_-5lUMVVl9ASfMmHs4xI6slKRDg
+#EXTINF:-1 group-title="ESPANA -  CINE" tvg-id="XTRMHD" tvg-name="|ES| XTRM FHD" tvg-logo="http://protocol.solanaflix.com:8080/images/760584d13f0c6712c5b7df4dc65c075e.png" ,|ES| XTRM FHD
+http://dx.tvdev.club:8080/play/q78s29ZXu0HIvK5JgGNq6poJe0Mtes1JqZ8yq_-5lUMcOGJWSOKksWPeMpql0Mky
+#EXTINF:-1 group-title="ESPANA -  CINE" tvg-id="EXTTEUV" tvg-name="|ES| XTREM" ,|ES| XTREM
+http://dx.tvdev.club:8080/play/q78s29ZXu0HIvK5JgGNq6poJe0Mtes1JqZ8yq_-5lUNN-0k-v-q7lIewbLP8aUK7
+#EXTINF:-1 group-title="ESPANA -  CINE" tvg-id="DARKSPA" tvg-name="|ES| DARK FHD" tvg-logo="http://protocol.solanaflix.com:8080/images/e9163bcafb4ddaa04be7b1f4842a42da.png" ,|ES| DARK FHD
+http://dx.tvdev.club:8080/play/q78s29ZXu0HIvK5JgGNq6kvh2SY0aEHqAjkkPg_wpG29rQ1CGV-iQaF3pIMnLBCq
+#EXTINF:-1 group-title="ESPANA -  CINE" tvg-id="FOXESP" tvg-name="|ES| FOX FHD" tvg-logo="http://protocol.solanaflix.com:8080/images/1fe310e6e32823d6c18d1ace507779a8.png" ,|ES| FOX FHD
+http://dx.tvdev.club:8080/play/q78s29ZXu0HIvK5JgGNq6poJe0Mtes1JqZ8yq_-5lUMiKiapyzU7K10RASXa8Ait
+#EXTINF:-1 group-title="ESPANA -  CINE" tvg-id="FOXESP" tvg-name="|ES| FOX" tvg-logo="http://protocol.solanaflix.com:8080/images/1fe310e6e32823d6c18d1ace507779a8.png" ,|ES| FOX
+http://dx.tvdev.club:8080/play/q78s29ZXu0HIvK5JgGNq6poJe0Mtes1JqZ8yq_-5lUNKQuSU9NqXkeaSATVtT3VN
+#EXTINF:-1 group-title="ESPANA -  CINE" tvg-id="AXNHDSP" tvg-name="|ES| AXN FHD" tvg-logo="http://protocol.solanaflix.com:8080/images/85fcdbfcd7e35d29c2c8efff3ea9df7e.png" ,|ES| AXN FHD
+http://dx.tvdev.club:8080/play/q78s29ZXu0HIvK5JgGNq6poJe0Mtes1JqZ8yq_-5lUOL_nIg914A8vbhjvEm7A-C
+#EXTINF:-1 group-title="ESPANA -  CINE" tvg-id="AXNESPP" tvg-name="|ES| AXN" tvg-logo="http://protocol.solanaflix.com:8080/images/c7bcbc671d54de0d717eb1663e1eea11.png" ,|ES| AXN
+http://dx.tvdev.club:8080/play/q78s29ZXu0HIvK5JgGNq6poJe0Mtes1JqZ8yq_-5lUP_H2TWN5IN5Al6u3WxwnTM
+#EXTINF:-1 group-title="ESPANA -  CINE" tvg-id="AMCESHD" tvg-name="|ES| AMC FHD" tvg-logo="http://protocol.solanaflix.com:8080/images/eba62e97568a6ee0c5a95ffba7b124c1.png" ,|ES| AMC FHD
+http://dx.tvdev.club:8080/play/q78s29ZXu0HIvK5JgGNq6poJe0Mtes1JqZ8yq_-5lUP8kE8QuxbzJ0kIMpH4rScK
+#EXTINF:-1 group-title="ESPANA -  CINE" tvg-id="AMCARAM" tvg-name="|ES| AMC" tvg-logo="http://protocol.solanaflix.com:8080/images/68271f533c2ea1941772cdb2982b152d.png" ,|ES| AMC
+http://dx.tvdev.club:8080/play/q78s29ZXu0HIvK5JgGNq6poJe0Mtes1JqZ8yq_-5lUP8rptuH6Ri2mAkTGoPDati
+#EXTINF:-1 group-title="ESPANA -  CINE" tvg-id="TNTSPHD" tvg-name="|ES| TNT FHD" tvg-logo="http://protocol.solanaflix.com:8080/images/634a1d48d5928a7a01c367cc62c68a91.png" ,|ES| TNT FHD
+http://dx.tvdev.club:8080/play/q78s29ZXu0HIvK5JgGNq6poJe0Mtes1JqZ8yq_-5lUMjYfcAff8ZNtsLyOxStrBb
+#EXTINF:-1 group-title="ESPANA -  CINE" tvg-id="TNTLVHD" tvg-name="|ES| TNT" tvg-logo="http://protocol.solanaflix.com:8080/images/LMhyz-ijm8U3THFnpGpw66JYQdyfI1inTwtSRXUWiBi7Cw23EXtA1g9QHzsUNHtt5k2IqDFj4-dLnAS8LUB8Nw.png" ,|ES| TNT
+http://dx.tvdev.club:8080/play/q78s29ZXu0HIvK5JgGNq6poJe0Mtes1JqZ8yq_-5lUO0hycfixQ9W90uN0VvLtHL
+#EXTINF:-1 group-title="ESPANA -  CINE" tvg-id="SYFYLAH" tvg-name="|ES| SYFY FHD" tvg-logo="http://protocol.solanaflix.com:8080/images/LMhyz-ijm8U3THFnpGpw66JYQdyfI1inTwtSRXUWiBjQ240BH71_8hlPT6Fo9C59m9-CcCEM6741fZI7X_fQDA.png" ,|ES| SYFY FHD
+http://dx.tvdev.club:8080/play/q78s29ZXu0HIvK5JgGNq6poJe0Mtes1JqZ8yq_-5lUNWlfkS4D3avhCMAwROt4UX
+#EXTINF:-1 group-title="ESPANA -  CINE" tvg-id="SYFYLAH" tvg-name="|ES| SYFY" tvg-logo="http://protocol.solanaflix.com:8080/images/85470b41c4778a801cfc1c17387e9fd7.png" ,|ES| SYFY
+http://dx.tvdev.club:8080/play/q78s29ZXu0HIvK5JgGNq6poJe0Mtes1JqZ8yq_-5lUP453DHjgjZJimQnZiBof5l
+#EXTINF:-1 group-title="ESPANA -  CINE" tvg-id="CCLASHD" tvg-name="|ES| COMEDY CENTRAL FHD" tvg-logo="http://protocol.solanaflix.com:8080/images/368ee045a76d8af7a0efa688e40838ed.png" ,|ES| COMEDY CENTRAL FHD
+http://dx.tvdev.club:8080/play/q78s29ZXu0HIvK5JgGNq6poJe0Mtes1JqZ8yq_-5lUPqSzLWNC_Rp-xxWHTo09Tg
+#EXTINF:-1 group-title="ESPANA -  CINE" tvg-id="CCLASHD" tvg-name="|ES| COMEDY CENTRAL" tvg-logo="http://protocol.solanaflix.com:8080/images/7130d47fe203cc4be9948cb9c5c9a31e.png" ,|ES| COMEDY CENTRAL
+http://dx.tvdev.club:8080/play/q78s29ZXu0HIvK5JgGNq6poJe0Mtes1JqZ8yq_-5lUPNL5UQOobHowHhCeNQR8bH
+#EXTINF:-1 group-title="ESPANA -  NINOS" tvg-id="DJRESP" tvg-name="|ES| DISNEY JR" tvg-logo="http://protocol.solanaflix.com:8080/images/ebd7b1ccb3142ea8542e35b221f1c959.png" ,|ES| DISNEY JR
+http://dx.tvdev.club:8080/play/q78s29ZXu0HIvK5JgGNq6poJe0Mtes1JqZ8yq_-5lUNwUpl1pw_moNGEuOZOcmE0
+#EXTINF:-1 group-title="ESPANA -  NINOS" tvg-id="DISNLSH" tvg-name="|ES| DISNEY CHANNEL" tvg-logo="http://protocol.solanaflix.com:8080/images/LMhyz-ijm8U3THFnpGpw66JYQdyfI1inTwtSRXUWiBi82QgVYu4Cor6HZxVWp2jX7aRSXiZ35R_yIhiNyL9Ng7OjfrqRouLOOZyqVjmDhdE.png" ,|ES| DISNEY CHANNEL
+http://dx.tvdev.club:8080/play/q78s29ZXu0HIvK5JgGNq6poJe0Mtes1JqZ8yq_-5lUMNfMd7xns4GgCqarDU9pcS
+#EXTINF:-1 group-title="ESPANA -  NINOS" tvg-id="BOINGE" tvg-name="|ES| BOING" tvg-logo="http://protocol.solanaflix.com:8080/images/22ba1ddaa71b15f6cb7d89cb5afa6581.png" ,|ES| BOING
+http://dx.tvdev.club:8080/play/q78s29ZXu0HIvK5JgGNq6poJe0Mtes1JqZ8yq_-5lUOFb_KiVOA95og4T4IAeyqP
+#EXTINF:-1 group-title="ESPANA -  NINOS" tvg-id="CANLPAN" tvg-name="|ES| CANAL PANDA" tvg-logo="http://protocol.solanaflix.com:8080/images/556adef058bd150e440b47f09e9065ca.png" ,|ES| CANAL PANDA
+http://dx.tvdev.club:8080/play/q78s29ZXu0HIvK5JgGNq6poJe0Mtes1JqZ8yq_-5lUO1bUIzCH6cJQUh4TAZHCdU
+#EXTINF:-1 group-title="ESPANA -  NINOS" tvg-id="BABYTVS" tvg-name="|ES| BABY TV" tvg-logo="http://protocol.solanaflix.com:8080/images/69535f49d5fb8179e26d08819a219612.png" ,|ES| BABY TV
+http://dx.tvdev.club:8080/play/q78s29ZXu0HIvK5JgGNq6poJe0Mtes1JqZ8yq_-5lUNOo42RkpQIPiR-ng_t1YOb
+#EXTINF:-1 group-title="ESPANA -  NINOS" tvg-id="NICKLMC" tvg-name="|ES| NICKELODEON FHD" tvg-logo="http://protocol.solanaflix.com:8080/images/429952d925933658248eed71c47ed1bf.png" ,|ES| NICKELODEON FHD
+http://dx.tvdev.club:8080/play/q78s29ZXu0HIvK5JgGNq6poJe0Mtes1JqZ8yq_-5lUPDI8r-kFEr1PxW0Ff0rm3l
+#EXTINF:-1 group-title="ESPANA -  NINOS" tvg-id="NICHDES" tvg-name="|ES| NICKELODEON" tvg-logo="http://protocol.solanaflix.com:8080/images/49bb0121634b05cf7037811a4078d7b0.png" ,|ES| NICKELODEON
+http://dx.tvdev.club:8080/play/q78s29ZXu0HIvK5JgGNq6poJe0Mtes1JqZ8yq_-5lUPqvHjhXG1rg14I3SUGlE78
+#EXTINF:-1 group-title="ESPANA -  NINOS" tvg-id="NICJRS" tvg-name="|ES| NICK JR" tvg-logo="http://protocol.solanaflix.com:8080/images/4f03339017aa8caddffc93575f75f6d8.png" ,|ES| NICK JR
+http://dx.tvdev.club:8080/play/q78s29ZXu0HIvK5JgGNq6poJe0Mtes1JqZ8yq_-5lUMoeFCYzXhf_LHp5yXUyzDy
+#EXTINF:-1 group-title="ESPANA -  TDT" tvg-id="CLAN" tvg-name="|ES| CLAN FHD" ,|ES| CLAN FHD
+http://dx.tvdev.club:8080/play/q78s29ZXu0HIvK5JgGNq6poJe0Mtes1JqZ8yq_-5lUO_ehoTtXFuMeaIwTySx8UG
+#EXTINF:-1 group-title="ESPANA -  TDT" tvg-id="CLAN" tvg-name="|ES| CLAN" tvg-logo="http://protocol.solanaflix.com:8080/images/3c06f96b6f7bbdb97366dff76a00eca4.png" ,|ES| CLAN
+http://dx.tvdev.club:8080/play/q78s29ZXu0HIvK5JgGNq6poJe0Mtes1JqZ8yq_-5lUOO3c-uSyMmuWcgbeCWvi19
+#EXTINF:-1 group-title="ESPANA - ESTILO DE VIDA" tvg-id="DKISS" tvg-name="|ES| DKISS" tvg-logo="http://protocol.solanaflix.com:8080/images/ea8965a16fc2667103961d8f646c5cfb.png" ,|ES| DKISS
+http://dx.tvdev.club:8080/play/q78s29ZXu0HIvK5JgGNq6poJe0Mtes1JqZ8yq_-5lUNkfTfIJUnklJbCqtz2cHMd
+#EXTINF:-1 group-title="ESPANA - ESTILO DE VIDA" tvg-id="CRINV" tvg-name="|ES| CRIMEN MAS+ INVESTIGACION" tvg-logo="http://protocol.solanaflix.com:8080/images/54923f7550a0a91f5e67dd049b97f51d.png" ,|ES| CRIMEN MAS+ INVESTIGACION
+http://dx.tvdev.club:8080/play/q78s29ZXu0HIvK5JgGNq6poJe0Mtes1JqZ8yq_-5lUOSYYT2WgHibK56tRjdBWq2
+#EXTINF:-1 group-title="ESPANA - ESTILO DE VIDA" tvg-id="DECASHD" tvg-name="|ES| DECASA" tvg-logo="http://protocol.solanaflix.com:8080/images/424a4384855f790861dfaabfcb49e83e.png" ,|ES| DECASA
+http://dx.tvdev.club:8080/play/q78s29ZXu0HIvK5JgGNq6poJe0Mtes1JqZ8yq_-5lUNSxhF-tTv4u_mXCmX3qAqG
+#EXTINF:-1 group-title="ESPANA - ESTILO DE VIDA" tvg-id="DECASHD" tvg-name="|ES| DECASA FHD" tvg-logo="http://protocol.solanaflix.com:8080/images/424a4384855f790861dfaabfcb49e83e.png" ,|ES| DECASA FHD
+http://dx.tvdev.club:8080/play/q78s29ZXu0HIvK5JgGNq6poJe0Mtes1JqZ8yq_-5lUNYTVclTpSHXj4BiogAaN5s
+#EXTINF:-1 group-title="ESPANA - ESTILO DE VIDA" tvg-id="COCINHD" tvg-name="|ES| CANAL COCINA FHD" tvg-logo="http://protocol.solanaflix.com:8080/images/382879a07b1b6aca3b35d29128c90584.png" ,|ES| CANAL COCINA FHD
+http://dx.tvdev.club:8080/play/q78s29ZXu0HIvK5JgGNq6poJe0Mtes1JqZ8yq_-5lUMbyL7Me_hvaRaYv1zGlNuT
+#EXTINF:-1 group-title="ESPANA - ESTILO DE VIDA" tvg-id="COCINHD" tvg-name="|ES| CANAL COCINA" tvg-logo="http://protocol.solanaflix.com:8080/images/382879a07b1b6aca3b35d29128c90584.png" ,|ES| CANAL COCINA
+http://dx.tvdev.club:8080/play/q78s29ZXu0HIvK5JgGNq6poJe0Mtes1JqZ8yq_-5lUMaZjfMc5o5OAJrk9HD_A_s
+#EXTINF:-1 group-title="ESPANA - ESTILO DE VIDA" tvg-id="BLAZESH" tvg-name="|ES| AMC BREAK FHD" tvg-logo="http://protocol.solanaflix.com:8080/images/09b63f2f502e2ce8121bbdbf420d63f4.png" ,|ES| AMC BREAK FHD
+http://dx.tvdev.club:8080/play/q78s29ZXu0HIvK5JgGNq6poJe0Mtes1JqZ8yq_-5lUOrnKq-Q17SuPB7FGo37PLN
+#EXTINF:-1 group-title="ESPANA -  CULTURA" tvg-id="HISHDES" tvg-name="|ES| HISTORIA FHD" tvg-logo="http://protocol.solanaflix.com:8080/images/1e4e034406cd2444557b1986321d4be4.png" ,|ES| HISTORIA FHD
+http://dx.tvdev.club:8080/play/q78s29ZXu0HIvK5JgGNq6poJe0Mtes1JqZ8yq_-5lUOYYhPYfg4OVJ7WBeLEA473
+#EXTINF:-1 group-title="ESPANA -  CULTURA" tvg-id="HISHDES" tvg-name="|ES| HISTORIA" tvg-logo="http://protocol.solanaflix.com:8080/images/1e4e034406cd2444557b1986321d4be4.png" ,|ES| HISTORIA
+http://dx.tvdev.club:8080/play/q78s29ZXu0HIvK5JgGNq6poJe0Mtes1JqZ8yq_-5lUPujCj4I0d9aLtzZy_R83xL
+#EXTINF:-1 group-title="ESPANA -  CULTURA" tvg-id="DISHDES" tvg-name="|ES| DISCOVERY CHANNEL" tvg-logo="http://protocol.solanaflix.com:8080/images/a4a3ecd7e4d08a420123ca06b36e3673.png" ,|ES| DISCOVERY CHANNEL
+http://dx.tvdev.club:8080/play/q78s29ZXu0HIvK5JgGNq6poJe0Mtes1JqZ8yq_-5lUMkm9Omw6vAQhTRzkl4tLI2
+#EXTINF:-1 group-title="ESPANA -  CULTURA" tvg-id="ODISEHD" tvg-name="|ES| ODISEA" tvg-logo="http://protocol.solanaflix.com:8080/images/52b70868846523bdd40fbee724601f08.png" ,|ES| ODISEA
+http://dx.tvdev.club:8080/play/q78s29ZXu0HIvK5JgGNq6poJe0Mtes1JqZ8yq_-5lUOP6MXFiPrpPwE_So1uWy-q
+#EXTINF:-1 group-title="ESPANA -  CULTURA" tvg-id="NGCCLA" tvg-name="|ES| NATIONAL GEOGRAPHIC FHD" tvg-logo="http://protocol.solanaflix.com:8080/images/c7b80593b3725b0fcca4f645f6430b7a.png" ,|ES| NATIONAL GEOGRAPHIC FHD
+http://dx.tvdev.club:8080/play/q78s29ZXu0HIvK5JgGNq6poJe0Mtes1JqZ8yq_-5lUOMeNIYzTtfWiR8bps6wFN2
+#EXTINF:-1 group-title="ESPANA -  CULTURA" tvg-id="NATGSHD" tvg-name="|ES| NATIONAL GEOGRAPHIC" tvg-logo="http://protocol.solanaflix.com:8080/images/a94b5b322eaf66d0fc5018d10280ec57.png" ,|ES| NATIONAL GEOGRAPHIC
+http://dx.tvdev.club:8080/play/q78s29ZXu0HIvK5JgGNq6poJe0Mtes1JqZ8yq_-5lUOZM5Piz2dQDRgBTmBeUpG-
+#EXTINF:-1 group-title="ESPANA -  CULTURA" tvg-id="NATGWES" tvg-name="|ES| NATIONAL GEOGRAFIC WILD FHD" tvg-logo="http://protocol.solanaflix.com:8080/images/YlPvM2x9GemEKii9kNJvj1ngpPANeRueT2blnJHK4sCmr8hEgRwbmp10Y-Nm7DmqVJ7n0J9drEbyyye-pH_rmQ.png" ,|ES| NATIONAL GEOGRAFIC WILD FHD
+http://dx.tvdev.club:8080/play/q78s29ZXu0HIvK5JgGNq6poJe0Mtes1JqZ8yq_-5lUNaAOwDHNEkVwBQQfRPEnkS
+#EXTINF:-1 group-title="ESPANA -  CULTURA" tvg-id="NATWILA" tvg-name="|ES| NATIONAL GEOGRAFIC WILD" tvg-logo="http://protocol.solanaflix.com:8080/images/33c0eb9393902f872b58e16b0e6cb4b7.png" ,|ES| NATIONAL GEOGRAFIC WILD
+http://dx.tvdev.club:8080/play/q78s29ZXu0HIvK5JgGNq6poJe0Mtes1JqZ8yq_-5lUPztbzFlAqOpovV7I_0ETa7
+#EXTINF:-1 group-title="ESPANA -  CULTURA" tvg-id="CAZPESH" tvg-name="|ES| CAZA Y PESCA FHD" tvg-logo="http://protocol.solanaflix.com:8080/images/e09f3396e4422178ebb50a5820dfe5b4.png" ,|ES| CAZA Y PESCA FHD
+http://dx.tvdev.club:8080/play/q78s29ZXu0HIvK5JgGNq6poJe0Mtes1JqZ8yq_-5lUONYrS6MMRakN9M1lSAjpE6
+#EXTINF:-1 group-title="ESPANA -  CULTURA" tvg-id="CAZPES" tvg-name="|ES| CAZA Y PESCA" tvg-logo="http://protocol.solanaflix.com:8080/images/d2bc2a6f29ffe9250fd8fc94f5b9774b.png" ,|ES| CAZA Y PESCA
+http://dx.tvdev.club:8080/play/q78s29ZXu0HIvK5JgGNq6poJe0Mtes1JqZ8yq_-5lUMoON0KBOFeKiFrV_oMPtwC
+#EXTINF:-1 group-title="ESPANA -  TDT" tvg-id="LA1HD" tvg-name="|ES| LA 1 FHD" tvg-logo="http://protocol.solanaflix.com:8080/images/YlPvM2x9GemEKii9kNJvj8b2g6tJneXMWDhyBqD09zPxq50XukOlR_zxuWIQNt0Y4p3GE25Rt1AiXhCuLn6MEQ.png" ,|ES| LA 1 FHD
+http://dx.tvdev.club:8080/play/q78s29ZXu0HIvK5JgGNq6poJe0Mtes1JqZ8yq_-5lUPnx8J0eq2Ib_bFpKj8Ef_E
+#EXTINF:-1 group-title="ESPANA -  TDT" tvg-id="LA1HD" tvg-name="|ES| LA 1" tvg-logo="http://protocol.solanaflix.com:8080/images/YlPvM2x9GemEKii9kNJvj8b2g6tJneXMWDhyBqD09zPxq50XukOlR_zxuWIQNt0Y4p3GE25Rt1AiXhCuLn6MEQ.png" ,|ES| LA 1
+http://dx.tvdev.club:8080/play/q78s29ZXu0HIvK5JgGNq6poJe0Mtes1JqZ8yq_-5lUOnX3pn9tpI7MfF_OYNHlGa
+#EXTINF:-1 group-title="ESPANA -  TDT" tvg-id="LA2HD" tvg-name="|ES| LA 2 FHD" tvg-logo="http://protocol.solanaflix.com:8080/images/YlPvM2x9GemEKii9kNJvj8b2g6tJneXMWDhyBqD09zMRNbP0FDMJxNqVb4YDA2HryLSKh7yRkmlCnNxIsxOM9A.png" ,|ES| LA 2 FHD
+http://dx.tvdev.club:8080/play/q78s29ZXu0HIvK5JgGNq6poJe0Mtes1JqZ8yq_-5lUO2wJSfapHa5ncHkKzHeWb8
+#EXTINF:-1 group-title="ESPANA -  TDT" tvg-id="LA2HD" tvg-name="|ES| LA 2" tvg-logo="http://protocol.solanaflix.com:8080/images/YlPvM2x9GemEKii9kNJvj8b2g6tJneXMWDhyBqD09zMRNbP0FDMJxNqVb4YDA2HryLSKh7yRkmlCnNxIsxOM9A.png" ,|ES| LA 2
+http://dx.tvdev.club:8080/play/q78s29ZXu0HIvK5JgGNq6poJe0Mtes1JqZ8yq_-5lUPVD9D0KgirVZUq62-IihYf
+#EXTINF:-1 group-title="ESPANA -  TDT" tvg-id="ANT3SPH" tvg-name="|ES| ANTENA 3 FHD" tvg-logo="http://protocol.solanaflix.com:8080/images/ef4363eba23444774531bd12e574c16d.png" ,|ES| ANTENA 3 FHD
+http://dx.tvdev.club:8080/play/q78s29ZXu0HIvK5JgGNq6poJe0Mtes1JqZ8yq_-5lUMcv_eVGzCICglYleZ9eJca
+#EXTINF:-1 group-title="ESPANA -  TDT" tvg-id="ANTENA3" tvg-name="|ES| ANTENA 3" tvg-logo="http://protocol.solanaflix.com:8080/images/285f709b24c0a4796d58221551d96670.png" ,|ES| ANTENA 3
+http://dx.tvdev.club:8080/play/q78s29ZXu0HIvK5JgGNq6poJe0Mtes1JqZ8yq_-5lUNmpZJRfK_Py6dJyLOn1Rin
+#EXTINF:-1 group-title="ESPANA -  TDT" tvg-id="CUATRO" tvg-name="|ES| CUATRO FHD" tvg-logo="http://protocol.solanaflix.com:8080/images/8803ac2e225904c7be8479d14e43878b.png" ,|ES| CUATRO FHD
+http://dx.tvdev.club:8080/play/q78s29ZXu0HIvK5JgGNq6poJe0Mtes1JqZ8yq_-5lUNrQo2LFBBvXy8TtpQ11QHE
+#EXTINF:-1 group-title="ESPANA -  TDT" tvg-id="CUATRO" tvg-name="|ES| CUATRO" tvg-logo="http://protocol.solanaflix.com:8080/images/8803ac2e225904c7be8479d14e43878b.png" ,|ES| CUATRO
+http://dx.tvdev.club:8080/play/q78s29ZXu0HIvK5JgGNq6poJe0Mtes1JqZ8yq_-5lUOEQmV8ybfCnO0Gr62M2EYh
+#EXTINF:-1 group-title="ESPANA -  TDT" tvg-id="SEXTHD" tvg-name="|ES| LA SEXTA FHD" tvg-logo="http://protocol.solanaflix.com:8080/images/97068a83d9ad701cff04ada6ede87b43.png" ,|ES| LA SEXTA FHD
+http://dx.tvdev.club:8080/play/q78s29ZXu0HIvK5JgGNq6poJe0Mtes1JqZ8yq_-5lUM324FC0WZ6SKT_Jx1Fyjho
+#EXTINF:-1 group-title="ESPANA -  TDT" tvg-id="SEXTHD" tvg-name="|ES| LA SEXTA" tvg-logo="http://protocol.solanaflix.com:8080/images/97068a83d9ad701cff04ada6ede87b43.png" ,|ES| LA SEXTA
+http://dx.tvdev.club:8080/play/q78s29ZXu0HIvK5JgGNq6poJe0Mtes1JqZ8yq_-5lUOUp6a7u0hMZoQXZzaDZuCn
+#EXTINF:-1 group-title="ESPANA -  TDT" tvg-id="PARMDA" tvg-name="|ES| PARAMOUNT CHANNEL" tvg-logo="http://protocol.solanaflix.com:8080/images/12a171a4c616f398c636128fefe9f620.png" ,|ES| PARAMOUNT CHANNEL
+http://dx.tvdev.club:8080/play/q78s29ZXu0HIvK5JgGNq6poJe0Mtes1JqZ8yq_-5lUN0OZYxu8dlSi5VMbn93F5x
+#EXTINF:-1 group-title="ESPANA -  TDT" tvg-id="MEGAHD" tvg-name="|ES| MEGA FHD" tvg-logo="http://protocol.solanaflix.com:8080/images/1504d6af583e9eb1f493ed6b4929ea84.png" ,|ES| MEGA FHD
+http://dx.tvdev.club:8080/play/q78s29ZXu0HIvK5JgGNq6poJe0Mtes1JqZ8yq_-5lUNQlDDXj4F5L7uYTRaEGd0j
+#EXTINF:-1 group-title="ESPANA -  TDT" tvg-id="CAN24AM" tvg-name="|ES| 24 HORAS" ,|ES| 24 HORAS
+http://dx.tvdev.club:8080/play/q78s29ZXu0HIvK5JgGNq6poJe0Mtes1JqZ8yq_-5lUPAXO_45-UoRF6lDlZEYVFA
+#EXTINF:-1 group-title="ESPANA -  TDT" tvg-id="FDFS" tvg-name="|ES| FDF" tvg-logo="http://protocol.solanaflix.com:8080/images/302e246e62857a73580e4541a042c098.png" ,|ES| FDF
+http://dx.tvdev.club:8080/play/q78s29ZXu0HIvK5JgGNq6poJe0Mtes1JqZ8yq_-5lUOsSRHq-eAw2Cx04UB4tJR_
+#EXTINF:-1 group-title="ESPANA -  TDT" tvg-id="A3CI" tvg-name="|ES| A3SERIES" tvg-logo="http://protocol.solanaflix.com:8080/images/75966d8f0b754bc4917ae3bd83d37d87.png" ,|ES| A3SERIES
+http://dx.tvdev.club:8080/play/q78s29ZXu0HIvK5JgGNq6poJe0Mtes1JqZ8yq_-5lUOOXxuPS85EJCD9FD8V9bg2
+#EXTINF:-1 group-title="ESPANA -  TDT" tvg-id="MEGAHD" tvg-name="|ES| MEGA" tvg-logo="http://protocol.solanaflix.com:8080/images/1504d6af583e9eb1f493ed6b4929ea84.png" ,|ES| MEGA
+http://dx.tvdev.club:8080/play/q78s29ZXu0HIvK5JgGNq6poJe0Mtes1JqZ8yq_-5lUMdT1NqJm2dw-3p3fwvHNCG
+#EXTINF:-1 group-title="ESPANA -  TDT" tvg-id="DIVINIT" tvg-name="|ES| DIVINITY" tvg-logo="http://protocol.solanaflix.com:8080/images/0d9e9bafc45fa91e81a9a89baa0e82bf.png" ,|ES| DIVINITY
+http://dx.tvdev.club:8080/play/q78s29ZXu0HIvK5JgGNq6poJe0Mtes1JqZ8yq_-5lUPFvJK6Thpb7C4SlMqZazyS
+#EXTINF:-1 group-title="ESPANA -  TDT" tvg-id="BEMAD" tvg-name="|ES| BEMAD FHD" tvg-logo="http://protocol.solanaflix.com:8080/images/LMhyz-ijm8U3THFnpGpw66JYQdyfI1inTwtSRXUWiBjN8j7H6V4zGwj_nXNSYJFSILS_nWi9QS-qIsH24rL73A.png" ,|ES| BEMAD FHD
+http://dx.tvdev.club:8080/play/q78s29ZXu0HIvK5JgGNq6poJe0Mtes1JqZ8yq_-5lUM8G3bUsci5ZIN3wPP4raOW
+#EXTINF:-1 group-title="ESPANA -  TDT" tvg-id="BEMAD" tvg-name="|ES| BE MAD" tvg-logo="http://protocol.solanaflix.com:8080/images/LMhyz-ijm8U3THFnpGpw66JYQdyfI1inTwtSRXUWiBjN8j7H6V4zGwj_nXNSYJFSILS_nWi9QS-qIsH24rL73A.png" ,|ES| BE MAD
+http://dx.tvdev.club:8080/play/q78s29ZXu0HIvK5JgGNq6poJe0Mtes1JqZ8yq_-5lUNoP6WvhsP3eIimlyAEYoTK
+#EXTINF:-1 group-title="ESPANA -  TDT" tvg-id="NEOX" tvg-name="|ES| NEOX" tvg-logo="http://protocol.solanaflix.com:8080/images/4337120eec924b379bacf60654411200.png" ,|ES| NEOX
+http://dx.tvdev.club:8080/play/q78s29ZXu0HIvK5JgGNq6poJe0Mtes1JqZ8yq_-5lUMQvLFiD9oe106YsraUj7Bq
+#EXTINF:-1 group-title="ESPANA -  TDT" tvg-id="NOVANT" tvg-name="|ES| NOVA" tvg-logo="http://protocol.solanaflix.com:8080/images/5c2e1cebc605ff56e6283f2e21d26a3e.png" ,|ES| NOVA
+http://dx.tvdev.club:8080/play/q78s29ZXu0HIvK5JgGNq6poJe0Mtes1JqZ8yq_-5lUPt6MJOHCxr4JVgGZoTf1PO
+#EXTINF:-1 group-title="ESPANA -  TDT" tvg-id="DISCMAX" tvg-name="|ES| DMAX" tvg-logo="http://protocol.solanaflix.com:8080/images/26bfaabc8ab71544f153e910bcec2a31.png" ,|ES| DMAX
+http://dx.tvdev.club:8080/play/q78s29ZXu0HIvK5JgGNq6poJe0Mtes1JqZ8yq_-5lUOOgakRSnu8OzQOKeKh1jN1
+#EXTINF:-1 group-title="ESPANA -  TDT" tvg-id="TENESP" tvg-name="|ES| TEN" ,|ES| TEN
+http://dx.tvdev.club:8080/play/q78s29ZXu0HIvK5JgGNq6poJe0Mtes1JqZ8yq_-5lUMQsAk5yOvsUlkfZHEDbrmh
+#EXTINF:-1 group-title="ESPANA -  TDT" tvg-id="TV3SPHD" tvg-name="|ES| TV3 CAT" tvg-logo="http://protocol.solanaflix.com:8080/images/57b7c483603f8cd6c360455d05226b88.png" ,|ES| TV3 CAT
+http://dx.tvdev.club:8080/play/q78s29ZXu0HIvK5JgGNq6lrA4LhkvDM4S4fvUojeg87ZZV-pWkPJZE4z3Wpn-NWn
+#EXTINF:-1 group-title="ESPANA -  TDT" tvg-id="SUR" tvg-name="|ES| CANAL SUR FHD" ,|ES| CANAL SUR FHD
+http://dx.tvdev.club:8080/play/q78s29ZXu0HIvK5JgGNq6poJe0Mtes1JqZ8yq_-5lUNM0TWVA0JL9imchtLTu_vC
+#EXTINF:-1 group-title="DE - KINDER" tvg-id="SUPRTL" tvg-name="|DE| SUPER RTL HD" ,|DE| SUPER RTL HD
+http://dx.tvdev.club:8080/play/q78s29ZXu0HIvK5JgGNq6seAqtvOVQNi19oCInUUZaFY2MvXhQoj8ZD9wtUufonL
+#EXTINF:-1 group-title="DE - KINDER" tvg-id="KIKAGH" tvg-name="|DE| KIKA HD" ,|DE| KIKA HD
+http://dx.tvdev.club:8080/play/q78s29ZXu0HIvK5JgGNq6pBjypevg63TrcacnKsENX5_psRlVJJLUGhbxixx2AhE
+#EXTINF:-1 group-title="DE - KINDER" tvg-id="JUNR" tvg-name="|DE| JUNIOR HD" ,|DE| JUNIOR HD
+http://dx.tvdev.club:8080/play/q78s29ZXu0HIvK5JgGNq6pBjypevg63TrcacnKsENX6TWzZ8n0zhpmTOtTSNJuk4
+#EXTINF:-1 group-title="DE - KINDER" tvg-id="DISNG" tvg-name="|DE| DISNEY CHANNEL HD" ,|DE| DISNEY CHANNEL HD
+http://dx.tvdev.club:8080/play/q78s29ZXu0HIvK5JgGNq6pBjypevg63TrcacnKsENX4EDSOxpI9_n3hN5ZX8w_oC
+#EXTINF:-1 group-title="DE - KINDER" tvg-id="BOOMSKY" tvg-name="|DE| BOOMERANG HD" ,|DE| BOOMERANG HD
+http://dx.tvdev.club:8080/play/q78s29ZXu0HIvK5JgGNq6pBjypevg63TrcacnKsENX725-MxWWlMYMl3qA-DgYBw
+#EXTINF:-1 group-title="DE - KINDER" tvg-id="KIKAGH" tvg-name="|DE| KIKA FHD" ,|DE| KIKA FHD
+http://dx.tvdev.club:8080/play/q78s29ZXu0HIvK5JgGNq6pBjypevg63TrcacnKsENX7OVnkT00uGrjnV2CtGDm_Z
+#EXTINF:-1 group-title="DE - KINDER" tvg-id="TOGPLUS" tvg-name="|DE| TOGGO PLUS HD" ,|DE| TOGGO PLUS HD
+http://dx.tvdev.club:8080/play/q78s29ZXu0HIvK5JgGNq6pBjypevg63TrcacnKsENX6Xga750WOgjovVUyGKrjdu
+#EXTINF:-1 group-title="DE - KINDER" tvg-id="CNGRM" tvg-name="|DE| CARTOON NETWORK HD" ,|DE| CARTOON NETWORK HD
+http://dx.tvdev.club:8080/play/q78s29ZXu0HIvK5JgGNq6pBjypevg63TrcacnKsENX5SrYDrEZOFA4PG_GwCUqJA
+#EXTINF:-1 group-title="DE - KINDER" tvg-id="BABYTVG" tvg-name="|DE| BABY TV HD" ,|DE| BABY TV HD
+http://dx.tvdev.club:8080/play/q78s29ZXu0HIvK5JgGNq6pBjypevg63TrcacnKsENX6Eyoc5sZj1F44L1TlTjoSU
+#EXTINF:-1 group-title="ARABIC" tvg-name="|MA| TAMAZIGHT MAROC HD" ,|MA| TAMAZIGHT MAROC HD
+http://dx.tvdev.club:8080/play/q78s29ZXu0HIvK5JgGNq6m-NpvdOT2W8dylRilZyPnuykr7LOGmdJ4BnCdAMw7QC
+#EXTINF:-1 group-title="ARABIC" tvg-name="|MA| ASSADISSA HD" ,|MA| ASSADISSA HD
+http://dx.tvdev.club:8080/play/q78s29ZXu0HIvK5JgGNq6m-NpvdOT2W8dylRilZyPntAdkhuqiz1rDukjTE_WPJD
+#EXTINF:-1 group-title="ARABIC" tvg-name="|MA| ARRYADIA HD" ,|MA| ARRYADIA HD
+http://dx.tvdev.club:8080/play/q78s29ZXu0HIvK5JgGNq6m-NpvdOT2W8dylRilZyPnt3RvUnwjOU6PxsuvsrsTfL
+#EXTINF:-1 group-title="ARABIC" tvg-name="|MA| ARRABIAA HD" ,|MA| ARRABIAA HD
+http://dx.tvdev.club:8080/play/q78s29ZXu0HIvK5JgGNq6m-NpvdOT2W8dylRilZyPnt_KY1Q9swvpoHFmpcek50s
+#EXTINF:-1 group-title="ARABIC" tvg-name="|MA| MEDI 1 TV TNT" ,|MA| MEDI 1 TV TNT
+http://dx.tvdev.club:8080/play/q78s29ZXu0HIvK5JgGNq6m-NpvdOT2W8dylRilZyPnuNL6BGvmfpPlUW38R8wlYy
+#EXTINF:-1 group-title="ARABIC" tvg-name="|MA| AL MAGHRIBIA HD" ,|MA| AL MAGHRIBIA HD
+http://dx.tvdev.club:8080/play/q78s29ZXu0HIvK5JgGNq6m-NpvdOT2W8dylRilZyPnsLdar4U9SBTH1HUAlH1YmL
+#EXTINF:-1 group-title="ARABIC" tvg-name="|MA| TELE MAROC HD" ,|MA| TELE MAROC HD
+http://dx.tvdev.club:8080/play/q78s29ZXu0HIvK5JgGNq6m-NpvdOT2W8dylRilZyPntWnMHB7GmtkKUypPDOzRI4
+#EXTINF:-1 group-title="ARABIC" tvg-name="|MA| AL AOULA MAROC HD" ,|MA| AL AOULA MAROC HD
+http://dx.tvdev.club:8080/play/q78s29ZXu0HIvK5JgGNq6m-NpvdOT2W8dylRilZyPnsMmtSfaj0vMhqk3Th580Kk
+#EXTINF:-1 group-title="ARABIC" tvg-name="|MA| 2M MAROC HD" ,|MA| 2M MAROC HD
+http://dx.tvdev.club:8080/play/q78s29ZXu0HIvK5JgGNq6m-NpvdOT2W8dylRilZyPntAaK2AZ67G2HNcMjd1KH1w
+#EXTINF:-1 group-title="ARABIC" tvg-name="|MA| MEDI 1 TV HD" ,|MA| MEDI 1 TV HD
+http://dx.tvdev.club:8080/play/q78s29ZXu0HIvK5JgGNq6m-NpvdOT2W8dylRilZyPnsJJbqvnO59xcMcVVgz6i7C
+#EXTINF:-1 group-title="ARABIC" tvg-name="|DZ| TAMAZIGHT ALGER" ,|DZ| TAMAZIGHT ALGER
+http://dx.tvdev.club:8080/play/q78s29ZXu0HIvK5JgGNq6m-NpvdOT2W8dylRilZyPnuTWzzpLcgg86txxYYl4Zs4
+#EXTINF:-1 group-title="ARABIC" tvg-name="|DZ| SAMIRA TV" ,|DZ| SAMIRA TV
+http://dx.tvdev.club:8080/play/q78s29ZXu0HIvK5JgGNq6m-NpvdOT2W8dylRilZyPnt5YrQicgzs3jDT2EmUPJUx
+#EXTINF:-1 group-title="ARABIC" tvg-name="|AR| BAHRAIN_QURAN" ,|AR| BAHRAIN_QURAN
+http://dx.tvdev.club:8080/play/q78s29ZXu0HIvK5JgGNq6nJAeFFZv9PnXWt4t3kqfcdn76lGJnI0Zg2KD9r-JJ-W
+#EXTINF:-1 group-title="ARABIC" tvg-name="|AR| ALMAJD10 BASMA" ,|AR| ALMAJD10 BASMA
+http://dx.tvdev.club:8080/play/q78s29ZXu0HIvK5JgGNq6nJAeFFZv9PnXWt4t3kqfcfXiEMX7grGvKpIXsk607Ok
+#EXTINF:-1 group-title="ARABIC" tvg-name="|AR| SAUDI SUNNAH" ,|AR| SAUDI SUNNAH
+http://dx.tvdev.club:8080/play/q78s29ZXu0HIvK5JgGNq6nJAeFFZv9PnXWt4t3kqfceVRC6rx4REOKx_xL245qjX
+#EXTINF:-1 group-title="ARABIC" tvg-name="|AR| SAUDI QURAN" ,|AR| SAUDI QURAN
+http://dx.tvdev.club:8080/play/q78s29ZXu0HIvK5JgGNq6nJAeFFZv9PnXWt4t3kqfceuJvW6lIoz0WSFBuhl9Yfl
+#EXTINF:-1 group-title="ARABIC" tvg-name="|AR| AL_NAS" ,|AR| AL_NAS
+http://dx.tvdev.club:8080/play/q78s29ZXu0HIvK5JgGNq6nJAeFFZv9PnXWt4t3kqfce2PuSYyngiEPNsJfv6ETjT
+#EXTINF:-1 group-title="ARABIC" tvg-name="|AR| AL RESALAH" ,|AR| AL RESALAH
+http://dx.tvdev.club:8080/play/q78s29ZXu0HIvK5JgGNq6nJAeFFZv9PnXWt4t3kqfcdxSIwAG0uOR9rc4jcdSxr-
+#EXTINF:-1 group-title="ARABIC" tvg-name="|AR| QURAN_TV" ,|AR| QURAN_TV
+http://dx.tvdev.club:8080/play/q78s29ZXu0HIvK5JgGNq6nJAeFFZv9PnXWt4t3kqfccasgYmjSSsAEx9hZOCwE_7
+#EXTINF:-1 group-title="ARABIC" tvg-name="|AR| MECCA" ,|AR| MECCA
+http://dx.tvdev.club:8080/play/q78s29ZXu0HIvK5JgGNq6nJAeFFZv9PnXWt4t3kqfcdziGm8Hdk9r_skaKiMplI7
+#EXTINF:-1 group-title="ARABIC" tvg-name="|AR| IQRAA" ,|AR| IQRAA
+http://dx.tvdev.club:8080/play/q78s29ZXu0HIvK5JgGNq6nJAeFFZv9PnXWt4t3kqfcc13IH3NYF_XdaHqkf3ZVny
+#EXTINF:-1 group-title="ARABIC" tvg-name="|AR| AL_RAHMA" ,|AR| AL_RAHMA
+http://dx.tvdev.club:8080/play/q78s29ZXu0HIvK5JgGNq6nJAeFFZv9PnXWt4t3kqfcfkUcMYF3sMGVH68RqWCKtS
+#EXTINF:-1 group-title="ARABIC" tvg-name="|AR| ALMAJD07 DOCUMENTAIRE" ,|AR| ALMAJD07 DOCUMENTAIRE
+http://dx.tvdev.club:8080/play/q78s29ZXu0HIvK5JgGNq6nJAeFFZv9PnXWt4t3kqfcf5Lqtb8s8L30Svk7ANxONc
+#EXTINF:-1 group-title="ARABIC" tvg-name="|AR| AL SIRAT QURAN" ,|AR| AL SIRAT QURAN
+http://dx.tvdev.club:8080/play/q78s29ZXu0HIvK5JgGNq6nJAeFFZv9PnXWt4t3kqfcfzXl9slhYQm0fCv5XyMJly
+#EXTINF:-1 group-title="ARABIC" tvg-name="|AR| KAIFA QURAN" ,|AR| KAIFA QURAN
+http://dx.tvdev.club:8080/play/q78s29ZXu0HIvK5JgGNq6nJAeFFZv9PnXWt4t3kqfccGiYoemymd520ryAagMm-y
+#EXTINF:-1 group-title="ARABIC" tvg-name="|AR| ALISTIQAMA QURAN" ,|AR| ALISTIQAMA QURAN
+http://dx.tvdev.club:8080/play/q78s29ZXu0HIvK5JgGNq6nJAeFFZv9PnXWt4t3kqfcei3CVFL78rkbSkHwYNeYzf
+#EXTINF:-1 group-title="ARABIC" tvg-name="|AR| AL AZHARI" ,|AR| AL AZHARI
+http://dx.tvdev.club:8080/play/q78s29ZXu0HIvK5JgGNq6nJAeFFZv9PnXWt4t3kqfccqEtzN0P1M6PC_f9ILXDsG
+#EXTINF:-1 group-title="ARABIC" tvg-name="|AR| AL SAFA" ,|AR| AL SAFA
+http://dx.tvdev.club:8080/play/q78s29ZXu0HIvK5JgGNq6nJAeFFZv9PnXWt4t3kqfcemi43N99Mo3V89uDiwm91M
+#EXTINF:-1 group-title="ARABIC" tvg-name="|AR| AQSA TV" ,|AR| AQSA TV
+http://dx.tvdev.club:8080/play/q78s29ZXu0HIvK5JgGNq6nJAeFFZv9PnXWt4t3kqfcdeiuXPikHySXIjaSyxaKfC
+#EXTINF:-1 group-title="ARABIC" tvg-name="|AR| ALFATH QURAN" ,|AR| ALFATH QURAN
+http://dx.tvdev.club:8080/play/q78s29ZXu0HIvK5JgGNq6nJAeFFZv9PnXWt4t3kqfceTfp6R_fiaCPqi0Oq5iuO1
+#EXTINF:-1 group-title="ARABIC" tvg-name="|AR| ALAFASY QURAN" ,|AR| ALAFASY QURAN
+http://dx.tvdev.club:8080/play/q78s29ZXu0HIvK5JgGNq6nJAeFFZv9PnXWt4t3kqfcfRIflW7pUm2nnV34sJ6bIq
+#EXTINF:-1 group-title="ARABIC" tvg-name="|AR| AHEL ALQURAN" ,|AR| AHEL ALQURAN
+http://dx.tvdev.club:8080/play/q78s29ZXu0HIvK5JgGNq6nJAeFFZv9PnXWt4t3kqfccACZWg6Uuy9e_x8tQzJP9P
